@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(9, 61, 59);
+    font-size: large;
+    color: rgb(9, 61, 59);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.content-left{
+    background-color: rgb(128, 172, 189);
+    color: rgb(9, 61, 59);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 35px;
+}
+.content-right{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 35px;
+    background-color: rgb(128, 172, 189);
+    border-radius: 10px;
+}
+.content{
+    display: flex;
+    align-items: center;
+    margin: 200px;
+}
+
+.pic{
+    width: 500px;
+    border-radius: 10px;
+}
